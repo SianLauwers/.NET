@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sian-\\OneDrive\\Documenten\\2022-2023\\.NET Sian Lauwers\\DI_Pattern - start\\DI_Pattern_Wrong\\DI_Pattern_Wrong.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sian-\\OneDrive\\Documenten\\2022-2023\\.NET Sian Lauwers\\DI_Pattern - start\\DI_Pattern_Wrong\\DI_Pattern_Wrong.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sian-\\OneDrive\\Documenten\\2022-2023\\.NET Sian Lauwers\\DI_Pattern - start\\DI_Pattern_Wrong\\DI_Pattern_Wrong.csproj",
+        "projectName": "DI_Pattern_Wrong",
+        "projectPath": "C:\\Users\\sian-\\OneDrive\\Documenten\\2022-2023\\.NET Sian Lauwers\\DI_Pattern - start\\DI_Pattern_Wrong\\DI_Pattern_Wrong.csproj",
+        "packagesPath": "C:\\Users\\sian-\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sian-\\OneDrive\\Documenten\\2022-2023\\.NET Sian Lauwers\\DI_Pattern - start\\DI_Pattern_Wrong\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sian-\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

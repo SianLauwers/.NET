@@ -1,0 +1,12 @@
+C:\Users\sian-\OneDrive\Documenten\2022-2023\.NET Sian Lauwers\Bank\Bank\bin\Debug\net6.0\Bank.deps.json
+C:\Users\sian-\OneDrive\Documenten\2022-2023\.NET Sian Lauwers\Bank\Bank\bin\Debug\net6.0\Bank.dll
+C:\Users\sian-\OneDrive\Documenten\2022-2023\.NET Sian Lauwers\Bank\Bank\bin\Debug\net6.0\Bank.pdb
+C:\Users\sian-\OneDrive\Documenten\2022-2023\.NET Sian Lauwers\Bank\Bank\obj\Debug\net6.0\Bank.csproj.AssemblyReference.cache
+C:\Users\sian-\OneDrive\Documenten\2022-2023\.NET Sian Lauwers\Bank\Bank\obj\Debug\net6.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sian-\OneDrive\Documenten\2022-2023\.NET Sian Lauwers\Bank\Bank\obj\Debug\net6.0\Bank.AssemblyInfoInputs.cache
+C:\Users\sian-\OneDrive\Documenten\2022-2023\.NET Sian Lauwers\Bank\Bank\obj\Debug\net6.0\Bank.AssemblyInfo.cs
+C:\Users\sian-\OneDrive\Documenten\2022-2023\.NET Sian Lauwers\Bank\Bank\obj\Debug\net6.0\Bank.csproj.CoreCompileInputs.cache
+C:\Users\sian-\OneDrive\Documenten\2022-2023\.NET Sian Lauwers\Bank\Bank\obj\Debug\net6.0\Bank.dll
+C:\Users\sian-\OneDrive\Documenten\2022-2023\.NET Sian Lauwers\Bank\Bank\obj\Debug\net6.0\refint\Bank.dll
+C:\Users\sian-\OneDrive\Documenten\2022-2023\.NET Sian Lauwers\Bank\Bank\obj\Debug\net6.0\Bank.pdb
+C:\Users\sian-\OneDrive\Documenten\2022-2023\.NET Sian Lauwers\Bank\Bank\obj\Debug\net6.0\ref\Bank.dll

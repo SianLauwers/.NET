@@ -1,0 +1,30 @@
+C:\Data\.NET Development\WT\Design Patterns\Applications\DI_Pattern\DI_Pattern_Good\bin\Debug\net6.0\DI_Pattern_Good.exe
+C:\Data\.NET Development\WT\Design Patterns\Applications\DI_Pattern\DI_Pattern_Good\bin\Debug\net6.0\DI_Pattern_Good.deps.json
+C:\Data\.NET Development\WT\Design Patterns\Applications\DI_Pattern\DI_Pattern_Good\bin\Debug\net6.0\DI_Pattern_Good.runtimeconfig.json
+C:\Data\.NET Development\WT\Design Patterns\Applications\DI_Pattern\DI_Pattern_Good\bin\Debug\net6.0\DI_Pattern_Good.dll
+C:\Data\.NET Development\WT\Design Patterns\Applications\DI_Pattern\DI_Pattern_Good\bin\Debug\net6.0\DI_Pattern_Good.pdb
+C:\Data\.NET Development\WT\Design Patterns\Applications\DI_Pattern\DI_Pattern_Good\obj\Debug\net6.0\DI_Pattern_Good.csproj.AssemblyReference.cache
+C:\Data\.NET Development\WT\Design Patterns\Applications\DI_Pattern\DI_Pattern_Good\obj\Debug\net6.0\DI_Pattern_Good.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\.NET Development\WT\Design Patterns\Applications\DI_Pattern\DI_Pattern_Good\obj\Debug\net6.0\DI_Pattern_Good.AssemblyInfoInputs.cache
+C:\Data\.NET Development\WT\Design Patterns\Applications\DI_Pattern\DI_Pattern_Good\obj\Debug\net6.0\DI_Pattern_Good.AssemblyInfo.cs
+C:\Data\.NET Development\WT\Design Patterns\Applications\DI_Pattern\DI_Pattern_Good\obj\Debug\net6.0\DI_Pattern_Good.csproj.CoreCompileInputs.cache
+C:\Data\.NET Development\WT\Design Patterns\Applications\DI_Pattern\DI_Pattern_Good\obj\Debug\net6.0\DI_Pattern_Good.dll
+C:\Data\.NET Development\WT\Design Patterns\Applications\DI_Pattern\DI_Pattern_Good\obj\Debug\net6.0\refint\DI_Pattern_Good.dll
+C:\Data\.NET Development\WT\Design Patterns\Applications\DI_Pattern\DI_Pattern_Good\obj\Debug\net6.0\DI_Pattern_Good.pdb
+C:\Data\.NET Development\WT\Design Patterns\Applications\DI_Pattern\DI_Pattern_Good\obj\Debug\net6.0\DI_Pattern_Good.genruntimeconfig.cache
+C:\Data\.NET Development\WT\Design Patterns\Applications\DI_Pattern\DI_Pattern_Good\obj\Debug\net6.0\ref\DI_Pattern_Good.dll
+C:\Users\sian-\OneDrive\Documenten\2022-2023\.NET Sian Lauwers\DI_Pattern - start\DI_Pattern_Good\bin\Debug\net6.0\DI_Pattern_Good.exe
+C:\Users\sian-\OneDrive\Documenten\2022-2023\.NET Sian Lauwers\DI_Pattern - start\DI_Pattern_Good\bin\Debug\net6.0\DI_Pattern_Good.deps.json
+C:\Users\sian-\OneDrive\Documenten\2022-2023\.NET Sian Lauwers\DI_Pattern - start\DI_Pattern_Good\bin\Debug\net6.0\DI_Pattern_Good.runtimeconfig.json
+C:\Users\sian-\OneDrive\Documenten\2022-2023\.NET Sian Lauwers\DI_Pattern - start\DI_Pattern_Good\bin\Debug\net6.0\DI_Pattern_Good.dll
+C:\Users\sian-\OneDrive\Documenten\2022-2023\.NET Sian Lauwers\DI_Pattern - start\DI_Pattern_Good\bin\Debug\net6.0\DI_Pattern_Good.pdb
+C:\Users\sian-\OneDrive\Documenten\2022-2023\.NET Sian Lauwers\DI_Pattern - start\DI_Pattern_Good\obj\Debug\net6.0\DI_Pattern_Good.csproj.AssemblyReference.cache
+C:\Users\sian-\OneDrive\Documenten\2022-2023\.NET Sian Lauwers\DI_Pattern - start\DI_Pattern_Good\obj\Debug\net6.0\DI_Pattern_Good.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sian-\OneDrive\Documenten\2022-2023\.NET Sian Lauwers\DI_Pattern - start\DI_Pattern_Good\obj\Debug\net6.0\DI_Pattern_Good.AssemblyInfoInputs.cache
+C:\Users\sian-\OneDrive\Documenten\2022-2023\.NET Sian Lauwers\DI_Pattern - start\DI_Pattern_Good\obj\Debug\net6.0\DI_Pattern_Good.AssemblyInfo.cs
+C:\Users\sian-\OneDrive\Documenten\2022-2023\.NET Sian Lauwers\DI_Pattern - start\DI_Pattern_Good\obj\Debug\net6.0\DI_Pattern_Good.csproj.CoreCompileInputs.cache
+C:\Users\sian-\OneDrive\Documenten\2022-2023\.NET Sian Lauwers\DI_Pattern - start\DI_Pattern_Good\obj\Debug\net6.0\DI_Pattern_Good.dll
+C:\Users\sian-\OneDrive\Documenten\2022-2023\.NET Sian Lauwers\DI_Pattern - start\DI_Pattern_Good\obj\Debug\net6.0\refint\DI_Pattern_Good.dll
+C:\Users\sian-\OneDrive\Documenten\2022-2023\.NET Sian Lauwers\DI_Pattern - start\DI_Pattern_Good\obj\Debug\net6.0\DI_Pattern_Good.pdb
+C:\Users\sian-\OneDrive\Documenten\2022-2023\.NET Sian Lauwers\DI_Pattern - start\DI_Pattern_Good\obj\Debug\net6.0\DI_Pattern_Good.genruntimeconfig.cache
+C:\Users\sian-\OneDrive\Documenten\2022-2023\.NET Sian Lauwers\DI_Pattern - start\DI_Pattern_Good\obj\Debug\net6.0\ref\DI_Pattern_Good.dll
