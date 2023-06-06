@@ -1,0 +1,14 @@
+C:\Data\Temp\Shop.API\Shop.DAL\bin\Debug\net6.0\Shop.DAL.deps.json
+C:\Data\Temp\Shop.API\Shop.DAL\bin\Debug\net6.0\Shop.DAL.dll
+C:\Data\Temp\Shop.API\Shop.DAL\bin\Debug\net6.0\Shop.DAL.pdb
+C:\Data\Temp\Shop.API\Shop.DAL\obj\Debug\net6.0\Shop.DAL.csproj.AssemblyReference.cache
+C:\Data\Temp\Shop.API\Shop.DAL\obj\Debug\net6.0\Shop.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Temp\Shop.API\Shop.DAL\obj\Debug\net6.0\Shop.DAL.AssemblyInfoInputs.cache
+C:\Data\Temp\Shop.API\Shop.DAL\obj\Debug\net6.0\Shop.DAL.AssemblyInfo.cs
+C:\Data\Temp\Shop.API\Shop.DAL\obj\Debug\net6.0\Shop.DAL.csproj.CoreCompileInputs.cache
+C:\Data\Temp\Shop.API\Shop.DAL\obj\Debug\net6.0\Shop.DAL.dll
+C:\Data\Temp\Shop.API\Shop.DAL\obj\Debug\net6.0\refint\Shop.DAL.dll
+C:\Data\Temp\Shop.API\Shop.DAL\obj\Debug\net6.0\Shop.DAL.pdb
+C:\Data\Temp\Shop.API\Shop.DAL\obj\Debug\net6.0\ref\Shop.DAL.dll
+C:\Data\Temp\Shop.API\Shop.DAL\bin\Debug\net6.0\Shop.DAL.runtimeconfig.json
+C:\Data\Temp\Shop.API\Shop.DAL\obj\Debug\net6.0\Shop.DAL.genruntimeconfig.cache

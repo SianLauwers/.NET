@@ -1,0 +1,89 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Overview customers page";
+}
+
+<ul id="customers_list"></ul>
+
+@section Scripts{
+
+    <script>
+
+async function authenticateUser(username, password) 
+{
+  const url = 'https://localhost:7184/api/user/authenticate';
+  const body = {userName: username, password: password};
+
+  const options = {
+    method: 'POST',
+    headers: {'Content-Type': 'application/json'},
+    body: JSON.stringify(body)};
+
+ 
+  try 
+  {
+    const response = await fetch(url, options);
+    const data = await response.json();
+
+    if (response.ok) 
+    {
+      // Authentication successful
+      const token = data.token; 
+      return token;
+    } 
+    else 
+    {
+      // Authentication failed
+      throw new Error(data.message || 'Authentication failed');
+    }
+  } 
+  catch (error) 
+  {
+    console.error('Error:', error.message);
+    throw error;
+  }
+  
+ }
+
+// authenticate user
+const username = 'micclo';
+const password = 'test';
+
+authenticateUser(username, password)
+  .then((token) => {
+    // Log the obtained token for subsequent API requests
+    console.log('JWT token:', token);
+    // Store the token securely (e.g., in local storage) for future API calls
+    localStorage.setItem('jwt', token);
+  })
+  .catch((error) => {
+    // Handle authentication errors
+    console.error('Authentication failed:', error);
+  });
+
+
+  //call secured api with token
+  const token = localStorage.getItem('jwt');
+
+  let url = "https://localhost:7184/api/customers";
+  let customersList = document.getElementById("customers_list");
+
+  fetch(url,{headers: {Authorization: `Bearer ${token}`}} )
+        .then(response => response.json())
+        .then (data => showCustomers(data.$values))
+        .catch (ex => {alert("Error!"); console.error(ex);});
+    
+  function showCustomers(customers)
+    {   
+     customers.forEach(customer =>
+            {
+            let li = document.createElement("li");
+            let text = customer.firstName + ' ' + customer.lastName;
+            li.appendChild(document.createTextNode(text));
+            customersList.appendChild(li);
+            });
+    }
+    
+    </script>
+}
