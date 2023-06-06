@@ -1,0 +1,31 @@
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Good\bin\Debug\net5.0\DI_Pattern_Good.exe
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Good\bin\Debug\net5.0\DI_Pattern_Good.deps.json
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Good\bin\Debug\net5.0\DI_Pattern_Good.runtimeconfig.json
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Good\bin\Debug\net5.0\DI_Pattern_Good.runtimeconfig.dev.json
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Good\bin\Debug\net5.0\DI_Pattern_Good.dll
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Good\bin\Debug\net5.0\ref\DI_Pattern_Good.dll
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Good\bin\Debug\net5.0\DI_Pattern_Good.pdb
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Good\obj\Debug\net5.0\DI_Pattern_Good.csproj.AssemblyReference.cache
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Good\obj\Debug\net5.0\DI_Pattern_Good.GeneratedMSBuildEditorConfig.editorconfig
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Good\obj\Debug\net5.0\DI_Pattern_Good.AssemblyInfoInputs.cache
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Good\obj\Debug\net5.0\DI_Pattern_Good.AssemblyInfo.cs
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Good\obj\Debug\net5.0\DI_Pattern_Good.csproj.CoreCompileInputs.cache
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Good\obj\Debug\net5.0\DI_Pattern_Good.dll
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Good\obj\Debug\net5.0\ref\DI_Pattern_Good.dll
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Good\obj\Debug\net5.0\DI_Pattern_Good.pdb
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Good\obj\Debug\net5.0\DI_Pattern_Good.genruntimeconfig.cache
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Good\bin\Debug\net5.0\DI_Pattern_Good.exe
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Good\bin\Debug\net5.0\DI_Pattern_Good.deps.json
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Good\bin\Debug\net5.0\DI_Pattern_Good.runtimeconfig.json
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Good\bin\Debug\net5.0\DI_Pattern_Good.runtimeconfig.dev.json
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Good\bin\Debug\net5.0\DI_Pattern_Good.dll
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Good\bin\Debug\net5.0\ref\DI_Pattern_Good.dll
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Good\bin\Debug\net5.0\DI_Pattern_Good.pdb
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Good\obj\Debug\net5.0\DI_Pattern_Good.GeneratedMSBuildEditorConfig.editorconfig
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Good\obj\Debug\net5.0\DI_Pattern_Good.AssemblyInfoInputs.cache
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Good\obj\Debug\net5.0\DI_Pattern_Good.AssemblyInfo.cs
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Good\obj\Debug\net5.0\DI_Pattern_Good.csproj.CoreCompileInputs.cache
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Good\obj\Debug\net5.0\DI_Pattern_Good.dll
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Good\obj\Debug\net5.0\ref\DI_Pattern_Good.dll
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Good\obj\Debug\net5.0\DI_Pattern_Good.pdb
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Good\obj\Debug\net5.0\DI_Pattern_Good.genruntimeconfig.cache

@@ -1,0 +1,47 @@
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Wrong\bin\Debug\net5.0\DI_Pattern_Wrong.exe
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Wrong\bin\Debug\net5.0\DI_Pattern_Wrong.deps.json
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Wrong\bin\Debug\net5.0\DI_Pattern_Wrong.runtimeconfig.json
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Wrong\bin\Debug\net5.0\DI_Pattern_Wrong.runtimeconfig.dev.json
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Wrong\bin\Debug\net5.0\DI_Pattern_Wrong.dll
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Wrong\bin\Debug\net5.0\ref\DI_Pattern_Wrong.dll
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Wrong\bin\Debug\net5.0\DI_Pattern_Wrong.pdb
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Wrong\obj\Debug\net5.0\DI_Pattern_Wrong.GeneratedMSBuildEditorConfig.editorconfig
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Wrong\obj\Debug\net5.0\DI_Pattern_Wrong.AssemblyInfoInputs.cache
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Wrong\obj\Debug\net5.0\DI_Pattern_Wrong.AssemblyInfo.cs
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Wrong\obj\Debug\net5.0\DI_Pattern_Wrong.csproj.CoreCompileInputs.cache
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Wrong\obj\Debug\net5.0\DI_Pattern_Wrong.dll
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Wrong\obj\Debug\net5.0\ref\DI_Pattern_Wrong.dll
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Wrong\obj\Debug\net5.0\DI_Pattern_Wrong.pdb
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Wrong\obj\Debug\net5.0\DI_Pattern_Wrong.genruntimeconfig.cache
+C:\Users\Nicholas C\Downloads\DI_Pattern Start Solution\DI_Pattern Start Solution\DI_Pattern_Wrong\bin\Debug\net5.0\DI_Pattern_Wrong.exe
+C:\Users\Nicholas C\Downloads\DI_Pattern Start Solution\DI_Pattern Start Solution\DI_Pattern_Wrong\bin\Debug\net5.0\DI_Pattern_Wrong.deps.json
+C:\Users\Nicholas C\Downloads\DI_Pattern Start Solution\DI_Pattern Start Solution\DI_Pattern_Wrong\bin\Debug\net5.0\DI_Pattern_Wrong.runtimeconfig.json
+C:\Users\Nicholas C\Downloads\DI_Pattern Start Solution\DI_Pattern Start Solution\DI_Pattern_Wrong\bin\Debug\net5.0\DI_Pattern_Wrong.runtimeconfig.dev.json
+C:\Users\Nicholas C\Downloads\DI_Pattern Start Solution\DI_Pattern Start Solution\DI_Pattern_Wrong\bin\Debug\net5.0\DI_Pattern_Wrong.dll
+C:\Users\Nicholas C\Downloads\DI_Pattern Start Solution\DI_Pattern Start Solution\DI_Pattern_Wrong\bin\Debug\net5.0\ref\DI_Pattern_Wrong.dll
+C:\Users\Nicholas C\Downloads\DI_Pattern Start Solution\DI_Pattern Start Solution\DI_Pattern_Wrong\bin\Debug\net5.0\DI_Pattern_Wrong.pdb
+C:\Users\Nicholas C\Downloads\DI_Pattern Start Solution\DI_Pattern Start Solution\DI_Pattern_Wrong\obj\Debug\net5.0\DI_Pattern_Wrong.csproj.AssemblyReference.cache
+C:\Users\Nicholas C\Downloads\DI_Pattern Start Solution\DI_Pattern Start Solution\DI_Pattern_Wrong\obj\Debug\net5.0\DI_Pattern_Wrong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicholas C\Downloads\DI_Pattern Start Solution\DI_Pattern Start Solution\DI_Pattern_Wrong\obj\Debug\net5.0\DI_Pattern_Wrong.AssemblyInfoInputs.cache
+C:\Users\Nicholas C\Downloads\DI_Pattern Start Solution\DI_Pattern Start Solution\DI_Pattern_Wrong\obj\Debug\net5.0\DI_Pattern_Wrong.AssemblyInfo.cs
+C:\Users\Nicholas C\Downloads\DI_Pattern Start Solution\DI_Pattern Start Solution\DI_Pattern_Wrong\obj\Debug\net5.0\DI_Pattern_Wrong.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas C\Downloads\DI_Pattern Start Solution\DI_Pattern Start Solution\DI_Pattern_Wrong\obj\Debug\net5.0\DI_Pattern_Wrong.dll
+C:\Users\Nicholas C\Downloads\DI_Pattern Start Solution\DI_Pattern Start Solution\DI_Pattern_Wrong\obj\Debug\net5.0\ref\DI_Pattern_Wrong.dll
+C:\Users\Nicholas C\Downloads\DI_Pattern Start Solution\DI_Pattern Start Solution\DI_Pattern_Wrong\obj\Debug\net5.0\DI_Pattern_Wrong.pdb
+C:\Users\Nicholas C\Downloads\DI_Pattern Start Solution\DI_Pattern Start Solution\DI_Pattern_Wrong\obj\Debug\net5.0\DI_Pattern_Wrong.genruntimeconfig.cache
+C:\Users\sian-\OneDrive\Documenten\2022-2023\.NET\.NET\DI\DI_Pattern Start Solution\DI_Pattern Start Solution\DI_Pattern_Wrong\bin\Debug\net5.0\DI_Pattern_Wrong.exe
+C:\Users\sian-\OneDrive\Documenten\2022-2023\.NET\.NET\DI\DI_Pattern Start Solution\DI_Pattern Start Solution\DI_Pattern_Wrong\bin\Debug\net5.0\DI_Pattern_Wrong.deps.json
+C:\Users\sian-\OneDrive\Documenten\2022-2023\.NET\.NET\DI\DI_Pattern Start Solution\DI_Pattern Start Solution\DI_Pattern_Wrong\bin\Debug\net5.0\DI_Pattern_Wrong.runtimeconfig.json
+C:\Users\sian-\OneDrive\Documenten\2022-2023\.NET\.NET\DI\DI_Pattern Start Solution\DI_Pattern Start Solution\DI_Pattern_Wrong\bin\Debug\net5.0\DI_Pattern_Wrong.runtimeconfig.dev.json
+C:\Users\sian-\OneDrive\Documenten\2022-2023\.NET\.NET\DI\DI_Pattern Start Solution\DI_Pattern Start Solution\DI_Pattern_Wrong\bin\Debug\net5.0\DI_Pattern_Wrong.dll
+C:\Users\sian-\OneDrive\Documenten\2022-2023\.NET\.NET\DI\DI_Pattern Start Solution\DI_Pattern Start Solution\DI_Pattern_Wrong\bin\Debug\net5.0\DI_Pattern_Wrong.pdb
+C:\Users\sian-\OneDrive\Documenten\2022-2023\.NET\.NET\DI\DI_Pattern Start Solution\DI_Pattern Start Solution\DI_Pattern_Wrong\obj\Debug\net5.0\DI_Pattern_Wrong.csproj.AssemblyReference.cache
+C:\Users\sian-\OneDrive\Documenten\2022-2023\.NET\.NET\DI\DI_Pattern Start Solution\DI_Pattern Start Solution\DI_Pattern_Wrong\obj\Debug\net5.0\DI_Pattern_Wrong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sian-\OneDrive\Documenten\2022-2023\.NET\.NET\DI\DI_Pattern Start Solution\DI_Pattern Start Solution\DI_Pattern_Wrong\obj\Debug\net5.0\DI_Pattern_Wrong.AssemblyInfoInputs.cache
+C:\Users\sian-\OneDrive\Documenten\2022-2023\.NET\.NET\DI\DI_Pattern Start Solution\DI_Pattern Start Solution\DI_Pattern_Wrong\obj\Debug\net5.0\DI_Pattern_Wrong.AssemblyInfo.cs
+C:\Users\sian-\OneDrive\Documenten\2022-2023\.NET\.NET\DI\DI_Pattern Start Solution\DI_Pattern Start Solution\DI_Pattern_Wrong\obj\Debug\net5.0\DI_Pattern_Wrong.csproj.CoreCompileInputs.cache
+C:\Users\sian-\OneDrive\Documenten\2022-2023\.NET\.NET\DI\DI_Pattern Start Solution\DI_Pattern Start Solution\DI_Pattern_Wrong\obj\Debug\net5.0\DI_Pattern_Wrong.dll
+C:\Users\sian-\OneDrive\Documenten\2022-2023\.NET\.NET\DI\DI_Pattern Start Solution\DI_Pattern Start Solution\DI_Pattern_Wrong\obj\Debug\net5.0\refint\DI_Pattern_Wrong.dll
+C:\Users\sian-\OneDrive\Documenten\2022-2023\.NET\.NET\DI\DI_Pattern Start Solution\DI_Pattern Start Solution\DI_Pattern_Wrong\obj\Debug\net5.0\DI_Pattern_Wrong.pdb
+C:\Users\sian-\OneDrive\Documenten\2022-2023\.NET\.NET\DI\DI_Pattern Start Solution\DI_Pattern Start Solution\DI_Pattern_Wrong\obj\Debug\net5.0\DI_Pattern_Wrong.genruntimeconfig.cache
+C:\Users\sian-\OneDrive\Documenten\2022-2023\.NET\.NET\DI\DI_Pattern Start Solution\DI_Pattern Start Solution\DI_Pattern_Wrong\obj\Debug\net5.0\ref\DI_Pattern_Wrong.dll

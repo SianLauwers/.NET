@@ -1,0 +1,12 @@
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Domain\bin\Debug\net5.0\MyShop.Domain.deps.json
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Domain\bin\Debug\net5.0\MyShop.Domain.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Domain\bin\Debug\net5.0\ref\MyShop.Domain.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Domain\bin\Debug\net5.0\MyShop.Domain.pdb
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Domain\obj\Debug\net5.0\MyShop.Domain.csproj.AssemblyReference.cache
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Domain\obj\Debug\net5.0\MyShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Domain\obj\Debug\net5.0\MyShop.Domain.AssemblyInfoInputs.cache
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Domain\obj\Debug\net5.0\MyShop.Domain.AssemblyInfo.cs
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Domain\obj\Debug\net5.0\MyShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Domain\obj\Debug\net5.0\MyShop.Domain.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Domain\obj\Debug\net5.0\ref\MyShop.Domain.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Domain\obj\Debug\net5.0\MyShop.Domain.pdb

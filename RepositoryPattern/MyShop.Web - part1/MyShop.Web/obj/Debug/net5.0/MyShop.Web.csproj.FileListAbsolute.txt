@@ -1,0 +1,288 @@
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\appsettings.json
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\MyShop.Web.StaticWebAssets.xml
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\MyShop.Web.exe
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\MyShop.Web.deps.json
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\MyShop.Web.runtimeconfig.json
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\MyShop.Web.runtimeconfig.dev.json
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\MyShop.Web.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\ref\MyShop.Web.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\MyShop.Web.pdb
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\MyShop.Web.Views.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\MyShop.Web.Views.pdb
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\obj\Debug\net5.0\MyShop.Web.csproj.AssemblyReference.cache
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\obj\Debug\net5.0\MyShop.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\obj\Debug\net5.0\MyShop.Web.AssemblyInfoInputs.cache
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\obj\Debug\net5.0\MyShop.Web.AssemblyInfo.cs
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\obj\Debug\net5.0\MyShop.Web.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\obj\Debug\net5.0\MyShop.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\obj\Debug\net5.0\MyShop.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\obj\Debug\net5.0\MyShop.Web.RazorAssemblyInfo.cache
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\obj\Debug\net5.0\MyShop.Web.RazorAssemblyInfo.cs
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\obj\Debug\net5.0\staticwebassets\MyShop.Web.StaticWebAssets.Manifest.cache
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\obj\Debug\net5.0\staticwebassets\MyShop.Web.StaticWebAssets.xml
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\obj\Debug\net5.0\scopedcss\bundle\MyShop.Web.styles.css
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\obj\Debug\net5.0\MyShop.Web.TagHelpers.input.cache
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\obj\Debug\net5.0\MyShop.Web.TagHelpers.output.cache
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\obj\Debug\net5.0\MyShop.Web.RazorCoreGenerate.cache
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\obj\Debug\net5.0\MyShop.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\obj\Debug\net5.0\MyShop.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\obj\Debug\net5.0\MyShop.Web.Views.pdb
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\obj\Debug\net5.0\MyShop.Web.csproj.CopyComplete
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\obj\Debug\net5.0\MyShop.Web.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\obj\Debug\net5.0\ref\MyShop.Web.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\obj\Debug\net5.0\MyShop.Web.pdb
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\obj\Debug\net5.0\MyShop.Web.genruntimeconfig.cache
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\MyShop.Domain.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\MyShop.Infrastructure.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\MyShop.Infrastructure.pdb
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\bin\Debug\net5.0\MyShop.Domain.pdb
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\obj\Debug\net5.0\Razor\Views\Customer\Index.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\obj\Debug\net5.0\Razor\Views\Order\Create.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Web\obj\Debug\net5.0\Razor\Views\Order\Index.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\appsettings.json
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\MyShop.Web.StaticWebAssets.xml
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\MyShop.Web.exe
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\MyShop.Web.deps.json
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\MyShop.Web.runtimeconfig.json
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\MyShop.Web.runtimeconfig.dev.json
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\MyShop.Web.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\ref\MyShop.Web.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\MyShop.Web.pdb
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\MyShop.Web.Views.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\MyShop.Web.Views.pdb
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\NPOI.OOXML.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\NPOI.OpenXml4Net.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\NPOI.OpenXmlFormats.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\NPOI.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\ICSharpCode.SharpZipLib.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\MyShop.Domain.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\MyShop.Infrastructure.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\MyShop.Infrastructure.pdb
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\bin\Debug\net5.0\MyShop.Domain.pdb
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\obj\Debug\net5.0\MyShop.Web.csproj.AssemblyReference.cache
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\obj\Debug\net5.0\MyShop.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\obj\Debug\net5.0\MyShop.Web.AssemblyInfoInputs.cache
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\obj\Debug\net5.0\MyShop.Web.AssemblyInfo.cs
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\obj\Debug\net5.0\MyShop.Web.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\obj\Debug\net5.0\MyShop.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\obj\Debug\net5.0\MyShop.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\obj\Debug\net5.0\MyShop.Web.RazorAssemblyInfo.cache
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\obj\Debug\net5.0\MyShop.Web.RazorAssemblyInfo.cs
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\obj\Debug\net5.0\staticwebassets\MyShop.Web.StaticWebAssets.Manifest.cache
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\obj\Debug\net5.0\staticwebassets\MyShop.Web.StaticWebAssets.xml
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\obj\Debug\net5.0\scopedcss\bundle\MyShop.Web.styles.css
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\obj\Debug\net5.0\MyShop.Web.TagHelpers.input.cache
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\obj\Debug\net5.0\MyShop.Web.TagHelpers.output.cache
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\obj\Debug\net5.0\MyShop.Web.RazorCoreGenerate.cache
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\obj\Debug\net5.0\Razor\Views\Customer\Index.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\obj\Debug\net5.0\Razor\Views\Order\Create.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\obj\Debug\net5.0\Razor\Views\Order\Index.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\obj\Debug\net5.0\MyShop.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\obj\Debug\net5.0\MyShop.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\obj\Debug\net5.0\MyShop.Web.Views.pdb
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\obj\Debug\net5.0\MyShop.Web.csproj.CopyComplete
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\obj\Debug\net5.0\MyShop.Web.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\obj\Debug\net5.0\ref\MyShop.Web.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\obj\Debug\net5.0\MyShop.Web.pdb
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Web\obj\Debug\net5.0\MyShop.Web.genruntimeconfig.cache
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\appsettings.json
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\MyShop.Web.StaticWebAssets.xml
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\MyShop.Web.exe
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\MyShop.Web.deps.json
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\MyShop.Web.runtimeconfig.json
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\MyShop.Web.runtimeconfig.dev.json
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\MyShop.Web.dll
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\ref\MyShop.Web.dll
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\MyShop.Web.pdb
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\MyShop.Web.Views.dll
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\MyShop.Web.Views.pdb
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\NPOI.OOXML.dll
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\NPOI.OpenXml4Net.dll
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\NPOI.OpenXmlFormats.dll
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\NPOI.dll
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\ICSharpCode.SharpZipLib.dll
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\MyShop.Domain.dll
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\MyShop.Infrastructure.dll
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\MyShop.Infrastructure.pdb
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\bin\Debug\net5.0\MyShop.Domain.pdb
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\obj\Debug\net5.0\MyShop.Web.csproj.AssemblyReference.cache
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\obj\Debug\net5.0\MyShop.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\obj\Debug\net5.0\MyShop.Web.AssemblyInfoInputs.cache
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\obj\Debug\net5.0\MyShop.Web.AssemblyInfo.cs
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\obj\Debug\net5.0\MyShop.Web.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\obj\Debug\net5.0\MyShop.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\obj\Debug\net5.0\MyShop.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\obj\Debug\net5.0\MyShop.Web.RazorAssemblyInfo.cache
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\obj\Debug\net5.0\MyShop.Web.RazorAssemblyInfo.cs
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\obj\Debug\net5.0\staticwebassets\MyShop.Web.StaticWebAssets.Manifest.cache
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\obj\Debug\net5.0\staticwebassets\MyShop.Web.StaticWebAssets.xml
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\obj\Debug\net5.0\scopedcss\bundle\MyShop.Web.styles.css
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\obj\Debug\net5.0\MyShop.Web.TagHelpers.input.cache
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\obj\Debug\net5.0\MyShop.Web.TagHelpers.output.cache
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\obj\Debug\net5.0\MyShop.Web.RazorCoreGenerate.cache
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\obj\Debug\net5.0\Razor\Views\Customer\Index.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\obj\Debug\net5.0\Razor\Views\Order\Create.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\obj\Debug\net5.0\Razor\Views\Order\Index.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\obj\Debug\net5.0\MyShop.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\obj\Debug\net5.0\MyShop.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\obj\Debug\net5.0\MyShop.Web.Views.pdb
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\obj\Debug\net5.0\MyShop.Web.csproj.CopyComplete
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\obj\Debug\net5.0\MyShop.Web.dll
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\obj\Debug\net5.0\ref\MyShop.Web.dll
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\obj\Debug\net5.0\MyShop.Web.pdb
+C:\Users\Nicholas C\source\repos\.NET\RepositoryPattern\MyShop.Web - part1\MyShop.Web\obj\Debug\net5.0\MyShop.Web.genruntimeconfig.cache

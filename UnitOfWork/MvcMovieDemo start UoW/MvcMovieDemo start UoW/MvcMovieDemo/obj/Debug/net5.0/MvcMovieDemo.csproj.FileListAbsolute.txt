@@ -1,0 +1,914 @@
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\appsettings.Development.json
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\appsettings.json
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.StaticWebAssets.xml
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.exe
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.deps.json
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.runtimeconfig.json
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.runtimeconfig.dev.json
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\ref\MvcMovieDemo.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.pdb
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.Views.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.Views.pdb
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\Humanizer.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.AssemblyInfoInputs.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.AssemblyInfo.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.csproj.CoreCompileInputs.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.MvcApplicationPartsAssemblyInfo.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.RazorAssemblyInfo.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.RazorAssemblyInfo.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\staticwebassets\MvcMovieDemo.StaticWebAssets.Manifest.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\staticwebassets\MvcMovieDemo.StaticWebAssets.xml
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\scopedcss\bundle\MvcMovieDemo.styles.css
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.TagHelpers.input.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.TagHelpers.output.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.RazorCoreGenerate.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.RazorTargetAssemblyInfo.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.RazorTargetAssemblyInfo.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.Views.pdb
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.csproj.CopyComplete
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\ref\MvcMovieDemo.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.pdb
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.genruntimeconfig.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.csprojAssemblyReference.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\HelloWorld\Index.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\_LayoutOld.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\HelloWorld\Welcome.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\appsettings.Development.json
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\appsettings.json
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.StaticWebAssets.xml
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.exe
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.deps.json
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.runtimeconfig.json
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.runtimeconfig.dev.json
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\ref\MvcMovieDemo.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.pdb
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.Views.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.Views.pdb
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\Humanizer.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.csprojAssemblyReference.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.AssemblyInfoInputs.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.AssemblyInfo.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.csproj.CoreCompileInputs.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.MvcApplicationPartsAssemblyInfo.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.RazorAssemblyInfo.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.RazorAssemblyInfo.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\obj\Debug\net5.0\staticwebassets\MvcMovieDemo.StaticWebAssets.Manifest.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\obj\Debug\net5.0\staticwebassets\MvcMovieDemo.StaticWebAssets.xml
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\obj\Debug\net5.0\scopedcss\bundle\MvcMovieDemo.styles.css
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.TagHelpers.input.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.TagHelpers.output.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.RazorCoreGenerate.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\HelloWorld\Index.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\HelloWorld\Welcome.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\_LayoutOld.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.RazorTargetAssemblyInfo.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.RazorTargetAssemblyInfo.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.Views.pdb
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.csproj.CopyComplete
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\obj\Debug\net5.0\ref\MvcMovieDemo.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.pdb
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 2\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.genruntimeconfig.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\appsettings.Development.json
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\appsettings.json
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.StaticWebAssets.xml
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.exe
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.deps.json
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.runtimeconfig.json
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.runtimeconfig.dev.json
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\ref\MvcMovieDemo.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.pdb
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.Views.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.Views.pdb
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\Humanizer.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.csprojAssemblyReference.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.AssemblyInfoInputs.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.AssemblyInfo.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.csproj.CoreCompileInputs.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.MvcApplicationPartsAssemblyInfo.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.RazorAssemblyInfo.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.RazorAssemblyInfo.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\obj\Debug\net5.0\staticwebassets\MvcMovieDemo.StaticWebAssets.Manifest.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\obj\Debug\net5.0\staticwebassets\MvcMovieDemo.StaticWebAssets.xml
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\obj\Debug\net5.0\scopedcss\bundle\MvcMovieDemo.styles.css
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.TagHelpers.input.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.TagHelpers.output.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.RazorCoreGenerate.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\HelloWorld\Index.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\HelloWorld\Welcome.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Movies\List.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\_LayoutOld.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.RazorTargetAssemblyInfo.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.RazorTargetAssemblyInfo.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.Views.pdb
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.csproj.CopyComplete
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\obj\Debug\net5.0\ref\MvcMovieDemo.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.pdb
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.genruntimeconfig.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 3\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Movies\Details.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.AssemblyInfoInputs.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.AssemblyInfo.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.csproj.CoreCompileInputs.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.MvcApplicationPartsAssemblyInfo.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.RazorAssemblyInfo.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.RazorAssemblyInfo.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\obj\Debug\net5.0\staticwebassets\MvcMovieDemo.StaticWebAssets.Manifest.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\obj\Debug\net5.0\staticwebassets\MvcMovieDemo.StaticWebAssets.xml
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\obj\Debug\net5.0\scopedcss\bundle\MvcMovieDemo.styles.css
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.TagHelpers.input.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.TagHelpers.output.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.RazorCoreGenerate.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\HelloWorld\Index.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\HelloWorld\Welcome.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Movies\Create.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Movies\Details.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Movies\List.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Ratings\Create.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Ratings\Edit.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Ratings\List.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\_LayoutOld.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.RazorTargetAssemblyInfo.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.RazorTargetAssemblyInfo.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\obj\Debug\net5.0\ref\MvcMovieDemo.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.pdb
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\appsettings.Development.json
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\appsettings.json
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.StaticWebAssets.xml
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.exe
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.deps.json
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.runtimeconfig.json
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.runtimeconfig.dev.json
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\ref\MvcMovieDemo.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.pdb
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.Views.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.Views.pdb
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\Humanizer.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.Views.pdb
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.csproj.CopyComplete
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 4\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.genruntimeconfig.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\appsettings.Development.json
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\appsettings.json
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.StaticWebAssets.xml
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.exe
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.deps.json
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.runtimeconfig.json
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.runtimeconfig.dev.json
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\ref\MvcMovieDemo.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.pdb
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.Views.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.Views.pdb
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\Humanizer.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.csprojAssemblyReference.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.AssemblyInfoInputs.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.AssemblyInfo.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.csproj.CoreCompileInputs.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.MvcApplicationPartsAssemblyInfo.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.RazorAssemblyInfo.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.RazorAssemblyInfo.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\obj\Debug\net5.0\staticwebassets\MvcMovieDemo.StaticWebAssets.Manifest.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\obj\Debug\net5.0\staticwebassets\MvcMovieDemo.StaticWebAssets.xml
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\obj\Debug\net5.0\scopedcss\bundle\MvcMovieDemo.styles.css
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.TagHelpers.input.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.TagHelpers.output.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.RazorCoreGenerate.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\HelloWorld\Index.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\HelloWorld\Welcome.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Movies\Create.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Movies\Details.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Movies\List.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Ratings\Create.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Ratings\Edit.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Ratings\List.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\_LayoutOld.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.RazorTargetAssemblyInfo.cache
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.RazorTargetAssemblyInfo.cs
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.Views.pdb
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.csproj.CopyComplete
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\obj\Debug\net5.0\ref\MvcMovieDemo.dll
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.pdb
+C:\@ThomasMore\2ITF ASP.NET MVC\www\MvcMovieDemo - na les 5\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.genruntimeconfig.cache
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\appsettings.Development.json
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\appsettings.json
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.StaticWebAssets.xml
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.exe
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.deps.json
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.runtimeconfig.json
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.runtimeconfig.dev.json
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\ref\MvcMovieDemo.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.pdb
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.Views.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.Views.pdb
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\Humanizer.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.csprojAssemblyReference.cache
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.AssemblyInfoInputs.cache
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.AssemblyInfo.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.csproj.CoreCompileInputs.cache
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.MvcApplicationPartsAssemblyInfo.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.RazorAssemblyInfo.cache
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.RazorAssemblyInfo.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\staticwebassets\MvcMovieDemo.StaticWebAssets.Manifest.cache
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\staticwebassets\MvcMovieDemo.StaticWebAssets.xml
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\scopedcss\bundle\MvcMovieDemo.styles.css
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.TagHelpers.input.cache
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.TagHelpers.output.cache
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.RazorCoreGenerate.cache
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Movies\Create.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Movies\Details.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Movies\List.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Ratings\Create.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Ratings\Edit.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Ratings\List.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\_LayoutOld.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.RazorTargetAssemblyInfo.cache
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.RazorTargetAssemblyInfo.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.Views.pdb
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.csproj.CopyComplete
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\ref\MvcMovieDemo.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.pdb
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.genruntimeconfig.cache
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\appsettings.Development.json
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\appsettings.json
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.StaticWebAssets.xml
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.exe
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.deps.json
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.runtimeconfig.json
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.runtimeconfig.dev.json
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\ref\MvcMovieDemo.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.pdb
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.Views.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.Views.pdb
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\Humanizer.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.csprojAssemblyReference.cache
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.AssemblyInfoInputs.cache
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.AssemblyInfo.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.csproj.CoreCompileInputs.cache
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.MvcApplicationPartsAssemblyInfo.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.RazorAssemblyInfo.cache
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.RazorAssemblyInfo.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\obj\Debug\net5.0\staticwebassets\MvcMovieDemo.StaticWebAssets.Manifest.cache
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\obj\Debug\net5.0\staticwebassets\MvcMovieDemo.StaticWebAssets.xml
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\obj\Debug\net5.0\scopedcss\bundle\MvcMovieDemo.styles.css
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.TagHelpers.input.cache
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.TagHelpers.output.cache
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.RazorCoreGenerate.cache
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Movies\Create.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Movies\Details.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Movies\List.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Ratings\Create.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Ratings\Edit.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Ratings\List.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\_LayoutOld.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.RazorTargetAssemblyInfo.cache
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.RazorTargetAssemblyInfo.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.Views.pdb
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.csproj.CopyComplete
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\obj\Debug\net5.0\ref\MvcMovieDemo.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.pdb
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo end\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.genruntimeconfig.cache
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.csprojAssemblyReference.cache
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.AssemblyInfoInputs.cache
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.AssemblyInfo.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.csproj.CoreCompileInputs.cache
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.MvcApplicationPartsAssemblyInfo.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.RazorAssemblyInfo.cache
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.RazorAssemblyInfo.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\obj\Debug\net5.0\ref\MvcMovieDemo.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.pdb
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\appsettings.Development.json
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\appsettings.json
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.StaticWebAssets.xml
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.exe
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.deps.json
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.runtimeconfig.json
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.runtimeconfig.dev.json
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\ref\MvcMovieDemo.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.pdb
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.Views.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.Views.pdb
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\Humanizer.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\obj\Debug\net5.0\staticwebassets\MvcMovieDemo.StaticWebAssets.Manifest.cache
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\obj\Debug\net5.0\staticwebassets\MvcMovieDemo.StaticWebAssets.xml
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\obj\Debug\net5.0\scopedcss\bundle\MvcMovieDemo.styles.css
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.TagHelpers.input.cache
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.TagHelpers.output.cache
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.RazorCoreGenerate.cache
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Movies\Create.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Movies\Details.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Movies\List.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Ratings\Create.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Ratings\Edit.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Ratings\List.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\_LayoutOld.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.RazorTargetAssemblyInfo.cache
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.RazorTargetAssemblyInfo.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.Views.pdb
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.csproj.CopyComplete
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start Part 2\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.genruntimeconfig.cache
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\appsettings.Development.json
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\appsettings.json
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.StaticWebAssets.xml
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.exe
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.deps.json
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.runtimeconfig.json
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.runtimeconfig.dev.json
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\ref\MvcMovieDemo.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.pdb
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.Views.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.Views.pdb
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\Humanizer.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.csprojAssemblyReference.cache
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.AssemblyInfoInputs.cache
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.AssemblyInfo.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.csproj.CoreCompileInputs.cache
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.MvcApplicationPartsAssemblyInfo.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.RazorAssemblyInfo.cache
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.RazorAssemblyInfo.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\staticwebassets\MvcMovieDemo.StaticWebAssets.Manifest.cache
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\staticwebassets\MvcMovieDemo.StaticWebAssets.xml
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\scopedcss\bundle\MvcMovieDemo.styles.css
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.TagHelpers.input.cache
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.TagHelpers.output.cache
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.RazorCoreGenerate.cache
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Movies\Create.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Movies\Details.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Movies\List.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Ratings\Create.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Ratings\Edit.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Ratings\List.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\_LayoutOld.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.RazorTargetAssemblyInfo.cache
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.RazorTargetAssemblyInfo.cs
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.Views.pdb
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.csproj.CopyComplete
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\ref\MvcMovieDemo.dll
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.pdb
+C:\@ThomasMore\2ITF .NET Development\www\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.genruntimeconfig.cache
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\appsettings.json
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.StaticWebAssets.xml
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.exe
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.deps.json
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.runtimeconfig.json
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.runtimeconfig.dev.json
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.dll
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\ref\MvcMovieDemo.dll
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.pdb
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.Views.dll
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\MvcMovieDemo.Views.pdb
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.csproj.AssemblyReference.cache
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.AssemblyInfoInputs.cache
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.AssemblyInfo.cs
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.RazorAssemblyInfo.cache
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.RazorAssemblyInfo.cs
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\staticwebassets\MvcMovieDemo.StaticWebAssets.Manifest.cache
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\staticwebassets\MvcMovieDemo.StaticWebAssets.xml
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\scopedcss\bundle\MvcMovieDemo.styles.css
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.TagHelpers.input.cache
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.TagHelpers.output.cache
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.RazorCoreGenerate.cache
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Movies\Create.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Movies\Details.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Movies\List.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Ratings\Create.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Ratings\Edit.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Ratings\List.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\_LayoutOld.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.RazorTargetAssemblyInfo.cache
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.RazorTargetAssemblyInfo.cs
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.Views.pdb
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.csproj.CopyComplete
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.dll
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\ref\MvcMovieDemo.dll
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.pdb
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\MvcMovieDemo.genruntimeconfig.cache
+C:\Users\Nicholas C\source\repos\MvcMovieDemo start UoW\MvcMovieDemo start UoW\MvcMovieDemo\obj\Debug\net5.0\Razor\Views\Movies\Add.cshtml.g.cs

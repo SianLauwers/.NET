@@ -1,0 +1,31 @@
+﻿@model MvcMovieDemo.Models.Movie
+
+@{
+    ViewData["Title"] = "Create";
+
+    var ratings = (IEnumerable<SelectListItem>)ViewData["Ratings"];
+}
+
+<form asp-action="Create">
+    <table>
+        <tr>
+            <td><label asp-for="Title">@Html.DisplayNameFor(model => model.Title)</label></td>
+            <td><input asp-for="Title" /></td>
+        </tr>
+        <tr>
+            <td><label asp-for="Genre">@Html.DisplayNameFor(model => model.Genre)</label></td>
+            <td><input asp-for="Genre" /></td>
+         </tr>
+        <tr>
+            <td><label asp-for="ReleaseDate">@Html.DisplayNameFor(model => model.ReleaseDate)</label></td>
+            <td><input asp-for="ReleaseDate" /></td>
+        </tr>
+        <tr>
+            <td><label asp-for="RatingID">@Html.DisplayNameFor(model => model.Rating)</label></td>
+            <td><select asp-for="RatingID" asp-items="ratings"></select></td>
+        </tr>
+        <tr>
+            <td colspan="2"><input type="submit" value="Create" /></td>
+        </tr>
+    </table>
+</form>

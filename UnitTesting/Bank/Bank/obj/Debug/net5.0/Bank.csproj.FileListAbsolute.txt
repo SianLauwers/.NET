@@ -1,0 +1,12 @@
+C:\Users\Nicholas C\source\repos\Bank\Bank\bin\Debug\net5.0\Bank.deps.json
+C:\Users\Nicholas C\source\repos\Bank\Bank\bin\Debug\net5.0\Bank.dll
+C:\Users\Nicholas C\source\repos\Bank\Bank\bin\Debug\net5.0\ref\Bank.dll
+C:\Users\Nicholas C\source\repos\Bank\Bank\bin\Debug\net5.0\Bank.pdb
+C:\Users\Nicholas C\source\repos\Bank\Bank\obj\Debug\net5.0\Bank.csproj.AssemblyReference.cache
+C:\Users\Nicholas C\source\repos\Bank\Bank\obj\Debug\net5.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicholas C\source\repos\Bank\Bank\obj\Debug\net5.0\Bank.AssemblyInfoInputs.cache
+C:\Users\Nicholas C\source\repos\Bank\Bank\obj\Debug\net5.0\Bank.AssemblyInfo.cs
+C:\Users\Nicholas C\source\repos\Bank\Bank\obj\Debug\net5.0\Bank.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas C\source\repos\Bank\Bank\obj\Debug\net5.0\Bank.dll
+C:\Users\Nicholas C\source\repos\Bank\Bank\obj\Debug\net5.0\ref\Bank.dll
+C:\Users\Nicholas C\source\repos\Bank\Bank\obj\Debug\net5.0\Bank.pdb

@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\@Thomas More\\2ITF .NET\\.NET Development\\DI_Pattern\\DI_Pattern\\DI_Pattern.csproj": {}
+  },
+  "projects": {
+    "C:\\@Thomas More\\2ITF .NET\\.NET Development\\DI_Pattern\\DI_Pattern\\DI_Pattern.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\@Thomas More\\2ITF .NET\\.NET Development\\DI_Pattern\\DI_Pattern\\DI_Pattern.csproj",
+        "projectName": "DI_Pattern",
+        "projectPath": "C:\\@Thomas More\\2ITF .NET\\.NET Development\\DI_Pattern\\DI_Pattern\\DI_Pattern.csproj",
+        "packagesPath": "C:\\Users\\u0068049\\.nuget\\packages\\",
+        "outputPath": "C:\\@Thomas More\\2ITF .NET\\.NET Development\\DI_Pattern\\DI_Pattern\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\u0068049\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

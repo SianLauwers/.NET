@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "oP4zgc49HVnRimvi3QKZj1TjapiIcQNcjiVfQIGqLMfP5vNJg2WYBYBX0Mkw5QXIkPk3OJF3DEfq3mIdZlycdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sian-\\OneDrive\\Documenten\\2022-2023\\.NET Sian Lauwers\\.NET\\DI_Pattern - start\\DI_Pattern_Better\\DI_Pattern_Better.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sian-\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.1\\microsoft.extensions.dependencyinjection.6.0.1.nupkg.sha512",
+    "C:\\Users\\sian-\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\sian-\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

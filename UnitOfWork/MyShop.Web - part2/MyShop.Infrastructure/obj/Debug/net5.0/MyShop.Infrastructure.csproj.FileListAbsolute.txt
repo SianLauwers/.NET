@@ -1,0 +1,52 @@
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Infrastructure\bin\Debug\net5.0\MyShop.Infrastructure.deps.json
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Infrastructure\bin\Debug\net5.0\MyShop.Infrastructure.runtimeconfig.json
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Infrastructure\bin\Debug\net5.0\MyShop.Infrastructure.runtimeconfig.dev.json
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Infrastructure\bin\Debug\net5.0\MyShop.Infrastructure.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Infrastructure\bin\Debug\net5.0\ref\MyShop.Infrastructure.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Infrastructure\bin\Debug\net5.0\MyShop.Infrastructure.pdb
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Infrastructure\bin\Debug\net5.0\MyShop.Domain.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Infrastructure\bin\Debug\net5.0\MyShop.Domain.pdb
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Infrastructure\obj\Debug\net5.0\MyShop.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Infrastructure\obj\Debug\net5.0\MyShop.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Infrastructure\obj\Debug\net5.0\MyShop.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Infrastructure\obj\Debug\net5.0\MyShop.Infrastructure.AssemblyInfo.cs
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Infrastructure\obj\Debug\net5.0\MyShop.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Infrastructure\obj\Debug\net5.0\MyShop.Infrastructure.csproj.CopyComplete
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Infrastructure\obj\Debug\net5.0\MyShop.Infrastructure.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Infrastructure\obj\Debug\net5.0\ref\MyShop.Infrastructure.dll
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Infrastructure\obj\Debug\net5.0\MyShop.Infrastructure.pdb
+C:\Users\Nicholas C\source\repos\MyShop.Web\MyShop.Infrastructure\obj\Debug\net5.0\MyShop.Infrastructure.genruntimeconfig.cache
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Infrastructure\bin\Debug\net5.0\MyShop.Infrastructure.deps.json
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Infrastructure\bin\Debug\net5.0\MyShop.Infrastructure.runtimeconfig.json
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Infrastructure\bin\Debug\net5.0\MyShop.Infrastructure.runtimeconfig.dev.json
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Infrastructure\bin\Debug\net5.0\MyShop.Infrastructure.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Infrastructure\bin\Debug\net5.0\ref\MyShop.Infrastructure.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Infrastructure\bin\Debug\net5.0\MyShop.Infrastructure.pdb
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Infrastructure\bin\Debug\net5.0\MyShop.Domain.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Infrastructure\bin\Debug\net5.0\MyShop.Domain.pdb
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Infrastructure\obj\Debug\net5.0\MyShop.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Infrastructure\obj\Debug\net5.0\MyShop.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Infrastructure\obj\Debug\net5.0\MyShop.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Infrastructure\obj\Debug\net5.0\MyShop.Infrastructure.AssemblyInfo.cs
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Infrastructure\obj\Debug\net5.0\MyShop.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Infrastructure\obj\Debug\net5.0\MyShop.Infrastructure.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Infrastructure\obj\Debug\net5.0\ref\MyShop.Infrastructure.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Infrastructure\obj\Debug\net5.0\MyShop.Infrastructure.pdb
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web\MyShop.Infrastructure\obj\Debug\net5.0\MyShop.Infrastructure.genruntimeconfig.cache
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web - part2\MyShop.Infrastructure\bin\Debug\net5.0\MyShop.Infrastructure.deps.json
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web - part2\MyShop.Infrastructure\bin\Debug\net5.0\MyShop.Infrastructure.runtimeconfig.json
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web - part2\MyShop.Infrastructure\bin\Debug\net5.0\MyShop.Infrastructure.runtimeconfig.dev.json
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web - part2\MyShop.Infrastructure\bin\Debug\net5.0\MyShop.Infrastructure.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web - part2\MyShop.Infrastructure\bin\Debug\net5.0\ref\MyShop.Infrastructure.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web - part2\MyShop.Infrastructure\bin\Debug\net5.0\MyShop.Infrastructure.pdb
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web - part2\MyShop.Infrastructure\bin\Debug\net5.0\MyShop.Domain.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web - part2\MyShop.Infrastructure\bin\Debug\net5.0\MyShop.Domain.pdb
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web - part2\MyShop.Infrastructure\obj\Debug\net5.0\MyShop.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web - part2\MyShop.Infrastructure\obj\Debug\net5.0\MyShop.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web - part2\MyShop.Infrastructure\obj\Debug\net5.0\MyShop.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web - part2\MyShop.Infrastructure\obj\Debug\net5.0\MyShop.Infrastructure.AssemblyInfo.cs
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web - part2\MyShop.Infrastructure\obj\Debug\net5.0\MyShop.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web - part2\MyShop.Infrastructure\obj\Debug\net5.0\MyShop.Infrastructure.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web - part2\MyShop.Infrastructure\obj\Debug\net5.0\ref\MyShop.Infrastructure.dll
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web - part2\MyShop.Infrastructure\obj\Debug\net5.0\MyShop.Infrastructure.pdb
+C:\Users\Nicholas C\source\repos\.NET\UnitOfWork\MyShop.Web - part2\MyShop.Infrastructure\obj\Debug\net5.0\MyShop.Infrastructure.genruntimeconfig.cache

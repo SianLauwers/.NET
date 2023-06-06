@@ -1,0 +1,78 @@
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_FeedReader\ExerciseDI_FeedReader\bin\Debug\net5.0\ExerciseDI_FeedReader.exe
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_FeedReader\ExerciseDI_FeedReader\bin\Debug\net5.0\ExerciseDI_FeedReader.deps.json
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_FeedReader\ExerciseDI_FeedReader\bin\Debug\net5.0\ExerciseDI_FeedReader.runtimeconfig.json
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_FeedReader\ExerciseDI_FeedReader\bin\Debug\net5.0\ExerciseDI_FeedReader.runtimeconfig.dev.json
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_FeedReader\ExerciseDI_FeedReader\bin\Debug\net5.0\ExerciseDI_FeedReader.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_FeedReader\ExerciseDI_FeedReader\bin\Debug\net5.0\ref\ExerciseDI_FeedReader.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_FeedReader\ExerciseDI_FeedReader\bin\Debug\net5.0\ExerciseDI_FeedReader.pdb
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_FeedReader\ExerciseDI_FeedReader\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_FeedReader\ExerciseDI_FeedReader\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_FeedReader\ExerciseDI_FeedReader\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_FeedReader\ExerciseDI_FeedReader\obj\Debug\net5.0\ExerciseDI_FeedReader.csproj.AssemblyReference.cache
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_FeedReader\ExerciseDI_FeedReader\obj\Debug\net5.0\ExerciseDI_FeedReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_FeedReader\ExerciseDI_FeedReader\obj\Debug\net5.0\ExerciseDI_FeedReader.AssemblyInfoInputs.cache
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_FeedReader\ExerciseDI_FeedReader\obj\Debug\net5.0\ExerciseDI_FeedReader.AssemblyInfo.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_FeedReader\ExerciseDI_FeedReader\obj\Debug\net5.0\ExerciseDI_FeedReader.csproj.CoreCompileInputs.cache
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_FeedReader\ExerciseDI_FeedReader\obj\Debug\net5.0\ExerciseDI_FeedReader.csproj.CopyComplete
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_FeedReader\ExerciseDI_FeedReader\obj\Debug\net5.0\ExerciseDI_FeedReader.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_FeedReader\ExerciseDI_FeedReader\obj\Debug\net5.0\ref\ExerciseDI_FeedReader.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_FeedReader\ExerciseDI_FeedReader\obj\Debug\net5.0\ExerciseDI_FeedReader.pdb
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_FeedReader\ExerciseDI_FeedReader\obj\Debug\net5.0\ExerciseDI_FeedReader.genruntimeconfig.cache
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\bin\Debug\net5.0\ExerciseDI_FeedReader.exe
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\bin\Debug\net5.0\ExerciseDI_FeedReader.deps.json
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\bin\Debug\net5.0\ExerciseDI_FeedReader.runtimeconfig.json
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\bin\Debug\net5.0\ExerciseDI_FeedReader.runtimeconfig.dev.json
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\bin\Debug\net5.0\ExerciseDI_FeedReader.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\bin\Debug\net5.0\ref\ExerciseDI_FeedReader.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\bin\Debug\net5.0\ExerciseDI_FeedReader.pdb
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\obj\Debug\net5.0\ExerciseDI_FeedReader.csproj.AssemblyReference.cache
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\obj\Debug\net5.0\ExerciseDI_FeedReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\obj\Debug\net5.0\ExerciseDI_FeedReader.AssemblyInfoInputs.cache
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\obj\Debug\net5.0\ExerciseDI_FeedReader.AssemblyInfo.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\obj\Debug\net5.0\ExerciseDI_FeedReader.csproj.CoreCompileInputs.cache
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\obj\Debug\net5.0\ExerciseDI_FeedReader.csproj.CopyComplete
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\obj\Debug\net5.0\ExerciseDI_FeedReader.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\obj\Debug\net5.0\ref\ExerciseDI_FeedReader.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\obj\Debug\net5.0\ExerciseDI_FeedReader.pdb
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\obj\Debug\net5.0\ExerciseDI_FeedReader.genruntimeconfig.cache
+C:\Users\Nicholas C\source\repos\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\bin\Debug\net5.0\ExerciseDI_FeedReader.exe
+C:\Users\Nicholas C\source\repos\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\bin\Debug\net5.0\ExerciseDI_FeedReader.deps.json
+C:\Users\Nicholas C\source\repos\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\bin\Debug\net5.0\ExerciseDI_FeedReader.runtimeconfig.json
+C:\Users\Nicholas C\source\repos\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\bin\Debug\net5.0\ExerciseDI_FeedReader.runtimeconfig.dev.json
+C:\Users\Nicholas C\source\repos\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\bin\Debug\net5.0\ExerciseDI_FeedReader.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\bin\Debug\net5.0\ref\ExerciseDI_FeedReader.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\bin\Debug\net5.0\ExerciseDI_FeedReader.pdb
+C:\Users\Nicholas C\source\repos\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\obj\Debug\net5.0\ExerciseDI_FeedReader.csproj.AssemblyReference.cache
+C:\Users\Nicholas C\source\repos\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\obj\Debug\net5.0\ExerciseDI_FeedReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicholas C\source\repos\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\obj\Debug\net5.0\ExerciseDI_FeedReader.AssemblyInfoInputs.cache
+C:\Users\Nicholas C\source\repos\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\obj\Debug\net5.0\ExerciseDI_FeedReader.AssemblyInfo.cs
+C:\Users\Nicholas C\source\repos\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\obj\Debug\net5.0\ExerciseDI_FeedReader.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas C\source\repos\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\obj\Debug\net5.0\ExerciseDI_FeedReader.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\obj\Debug\net5.0\ref\ExerciseDI_FeedReader.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\obj\Debug\net5.0\ExerciseDI_FeedReader.pdb
+C:\Users\Nicholas C\source\repos\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\obj\Debug\net5.0\ExerciseDI_FeedReader.genruntimeconfig.cache
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\bin\Debug\net5.0\ExerciseDI_FeedReader.exe
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\bin\Debug\net5.0\ExerciseDI_FeedReader.deps.json
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\bin\Debug\net5.0\ExerciseDI_FeedReader.runtimeconfig.json
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\bin\Debug\net5.0\ExerciseDI_FeedReader.runtimeconfig.dev.json
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\bin\Debug\net5.0\ExerciseDI_FeedReader.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\bin\Debug\net5.0\ref\ExerciseDI_FeedReader.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\bin\Debug\net5.0\ExerciseDI_FeedReader.pdb
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\obj\Debug\net5.0\ExerciseDI_FeedReader.csproj.AssemblyReference.cache
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\obj\Debug\net5.0\ExerciseDI_FeedReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\obj\Debug\net5.0\ExerciseDI_FeedReader.AssemblyInfoInputs.cache
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\obj\Debug\net5.0\ExerciseDI_FeedReader.AssemblyInfo.cs
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\obj\Debug\net5.0\ExerciseDI_FeedReader.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\obj\Debug\net5.0\ExerciseDI_FeedReader.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\obj\Debug\net5.0\ref\ExerciseDI_FeedReader.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\obj\Debug\net5.0\ExerciseDI_FeedReader.pdb
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader_Start\ExerciseDI_FeedReader\obj\Debug\net5.0\ExerciseDI_FeedReader.genruntimeconfig.cache

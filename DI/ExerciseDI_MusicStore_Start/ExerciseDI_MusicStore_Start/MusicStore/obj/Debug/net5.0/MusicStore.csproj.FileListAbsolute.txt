@@ -1,0 +1,1236 @@
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\appsettings.Development.json
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\appsettings.json
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\MusicStore.StaticWebAssets.xml
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\MusicStore.exe
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\MusicStore.deps.json
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\MusicStore.runtimeconfig.json
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\MusicStore.runtimeconfig.dev.json
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\MusicStore.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\ref\MusicStore.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\MusicStore.pdb
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\MusicStore.Views.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\MusicStore.Views.pdb
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\Humanizer.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\MusicStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\MusicStore.AssemblyInfoInputs.cache
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\MusicStore.AssemblyInfo.cs
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\MusicStore.csproj.CoreCompileInputs.cache
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\MusicStore.MvcApplicationPartsAssemblyInfo.cs
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\MusicStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\MusicStore.RazorAssemblyInfo.cache
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\MusicStore.RazorAssemblyInfo.cs
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\staticwebassets\MusicStore.StaticWebAssets.Manifest.cache
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\staticwebassets\MusicStore.StaticWebAssets.xml
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\scopedcss\bundle\MusicStore.styles.css
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\MusicStore.TagHelpers.input.cache
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\MusicStore.TagHelpers.output.cache
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\MusicStore.RazorCoreGenerate.cache
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Albums\Create.cshtml.g.cs
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Albums\Delete.cshtml.g.cs
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Albums\Details.cshtml.g.cs
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Albums\Edit.cshtml.g.cs
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Albums\Index.cshtml.g.cs
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Artists\Create.cshtml.g.cs
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Artists\Delete.cshtml.g.cs
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Artists\Details.cshtml.g.cs
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Artists\Edit.cshtml.g.cs
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Artists\Index.cshtml.g.cs
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Genres\Create.cshtml.g.cs
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Genres\Delete.cshtml.g.cs
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Genres\Details.cshtml.g.cs
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Genres\Edit.cshtml.g.cs
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Genres\Index.cshtml.g.cs
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\Razor\Views\Shared\_LayoutAdmin.cshtml.g.cs
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\Razor\Views\Store\Details.cshtml.g.cs
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\Razor\Views\Store\ListAlbums.cshtml.g.cs
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\Razor\Views\Store\ListGenres.cshtml.g.cs
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\MusicStore.RazorTargetAssemblyInfo.cache
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\MusicStore.RazorTargetAssemblyInfo.cs
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\MusicStore.Views.pdb
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\MusicStore.csproj.CopyComplete
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\MusicStore.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\ref\MusicStore.dll
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\MusicStore.pdb
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\MusicStore.genruntimeconfig.cache
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\Razor\Views\ShoppingCart\Index.cshtml.g.cs
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\Razor\Views\Shared\Components\GenreMenu\Default.cshtml.g.cs
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\MusicStore.csprojAssemblyReference.cache
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\Razor\Views\Checkout\Complete.cshtml.g.cs
+C:\Data\ASPdotNET MVC\Lessons 2021-2022\www\MusicStore\MusicStore\obj\Debug\net5.0\Razor\Views\Checkout\Create.cshtml.g.cs
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\appsettings.Development.json
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\appsettings.json
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\MusicStore.StaticWebAssets.xml
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\MusicStore.exe
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\MusicStore.deps.json
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\MusicStore.runtimeconfig.json
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\MusicStore.runtimeconfig.dev.json
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\MusicStore.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\ref\MusicStore.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\MusicStore.pdb
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\MusicStore.Views.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\MusicStore.Views.pdb
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\Humanizer.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\MusicStore.csproj.AssemblyReference.cache
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\MusicStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\MusicStore.AssemblyInfoInputs.cache
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\MusicStore.AssemblyInfo.cs
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\MusicStore.csproj.CoreCompileInputs.cache
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\MusicStore.MvcApplicationPartsAssemblyInfo.cs
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\MusicStore.MvcApplicationPartsAssemblyInfo.cache
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\MusicStore.RazorAssemblyInfo.cache
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\MusicStore.RazorAssemblyInfo.cs
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\staticwebassets\MusicStore.StaticWebAssets.Manifest.cache
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\staticwebassets\MusicStore.StaticWebAssets.xml
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\scopedcss\bundle\MusicStore.styles.css
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\MusicStore.TagHelpers.input.cache
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\MusicStore.TagHelpers.output.cache
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\MusicStore.RazorCoreGenerate.cache
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Albums\Create.cshtml.g.cs
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Albums\Delete.cshtml.g.cs
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Albums\Details.cshtml.g.cs
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Albums\Edit.cshtml.g.cs
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Albums\Index.cshtml.g.cs
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Artists\Create.cshtml.g.cs
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Artists\Delete.cshtml.g.cs
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Artists\Details.cshtml.g.cs
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Artists\Edit.cshtml.g.cs
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Artists\Index.cshtml.g.cs
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Genres\Create.cshtml.g.cs
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Genres\Delete.cshtml.g.cs
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Genres\Details.cshtml.g.cs
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Genres\Edit.cshtml.g.cs
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Genres\Index.cshtml.g.cs
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\Razor\Views\Checkout\Complete.cshtml.g.cs
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\Razor\Views\Checkout\Create.cshtml.g.cs
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\Razor\Views\Shared\Components\GenreMenu\Default.cshtml.g.cs
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\Razor\Views\Shared\_LayoutAdmin.cshtml.g.cs
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\Razor\Views\ShoppingCart\Index.cshtml.g.cs
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\Razor\Views\Store\Details.cshtml.g.cs
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\Razor\Views\Store\ListAlbums.cshtml.g.cs
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\Razor\Views\Store\ListGenres.cshtml.g.cs
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\MusicStore.RazorTargetAssemblyInfo.cache
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\MusicStore.RazorTargetAssemblyInfo.cs
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\MusicStore.Views.pdb
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\MusicStore.csproj.CopyComplete
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\MusicStore.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\ref\MusicStore.dll
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\MusicStore.pdb
+C:\TM\NETDevelopment\2021\MusicStore - after part 4\MusicStore\obj\Debug\net5.0\MusicStore.genruntimeconfig.cache
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\appsettings.Development.json
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\appsettings.json
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\MusicStore.StaticWebAssets.xml
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\MusicStore.exe
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\MusicStore.deps.json
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\MusicStore.runtimeconfig.json
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\MusicStore.runtimeconfig.dev.json
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\MusicStore.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\ref\MusicStore.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\MusicStore.pdb
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\MusicStore.Views.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\MusicStore.Views.pdb
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\Humanizer.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\MusicStore.csproj.AssemblyReference.cache
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\MusicStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\MusicStore.AssemblyInfoInputs.cache
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\MusicStore.AssemblyInfo.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\MusicStore.csproj.CoreCompileInputs.cache
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\MusicStore.MvcApplicationPartsAssemblyInfo.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\MusicStore.MvcApplicationPartsAssemblyInfo.cache
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\MusicStore.RazorAssemblyInfo.cache
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\MusicStore.RazorAssemblyInfo.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\scopedcss\bundle\MusicStore.styles.css
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\staticwebassets\MusicStore.StaticWebAssets.Manifest.cache
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\staticwebassets\MusicStore.StaticWebAssets.xml
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\MusicStore.TagHelpers.input.cache
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\MusicStore.TagHelpers.output.cache
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\MusicStore.RazorCoreGenerate.cache
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Albums\Create.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Albums\Delete.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Albums\Details.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Albums\Edit.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Albums\Index.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Artists\Create.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Artists\Delete.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Artists\Details.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Artists\Edit.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Artists\Index.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Genres\Create.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Genres\Delete.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Genres\Details.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Genres\Edit.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Genres\Index.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\Razor\Views\Checkout\Complete.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\Razor\Views\Checkout\Create.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\Razor\Views\Shared\Components\GenreMenu\Default.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\Razor\Views\Shared\_LayoutAdmin.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\Razor\Views\ShoppingCart\Index.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\Razor\Views\Store\Details.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\Razor\Views\Store\ListAlbums.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\Razor\Views\Store\ListGenres.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\MusicStore.RazorTargetAssemblyInfo.cache
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\MusicStore.RazorTargetAssemblyInfo.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\MusicStore.Views.pdb
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\MusicStore.csproj.CopyComplete
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\MusicStore.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\ref\MusicStore.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\MusicStore.pdb
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_End\MusicStore\obj\Debug\net5.0\MusicStore.genruntimeconfig.cache
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\appsettings.Development.json
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\appsettings.json
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\MusicStore.StaticWebAssets.xml
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\MusicStore.exe
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\MusicStore.deps.json
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\MusicStore.runtimeconfig.json
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\MusicStore.runtimeconfig.dev.json
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\MusicStore.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\ref\MusicStore.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\MusicStore.pdb
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\MusicStore.Views.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\MusicStore.Views.pdb
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Humanizer.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.csproj.AssemblyReference.cache
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.AssemblyInfoInputs.cache
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.AssemblyInfo.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.csproj.CoreCompileInputs.cache
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.MvcApplicationPartsAssemblyInfo.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.MvcApplicationPartsAssemblyInfo.cache
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.RazorAssemblyInfo.cache
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.RazorAssemblyInfo.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\scopedcss\bundle\MusicStore.styles.css
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\staticwebassets\MusicStore.StaticWebAssets.Manifest.cache
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\staticwebassets\MusicStore.StaticWebAssets.xml
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.TagHelpers.input.cache
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.TagHelpers.output.cache
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.RazorCoreGenerate.cache
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Albums\Create.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Albums\Delete.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Albums\Details.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Albums\Edit.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Albums\Index.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Artists\Create.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Artists\Delete.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Artists\Details.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Artists\Edit.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Artists\Index.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Genres\Create.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Genres\Delete.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Genres\Details.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Genres\Edit.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Genres\Index.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Views\Checkout\Complete.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Views\Checkout\Create.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Views\Shared\Components\GenreMenu\Default.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Views\Shared\_LayoutAdmin.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Views\ShoppingCart\Index.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Views\Store\Details.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Views\Store\ListAlbums.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Views\Store\ListGenres.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.RazorTargetAssemblyInfo.cache
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.RazorTargetAssemblyInfo.cs
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.Views.pdb
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.csproj.CopyComplete
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\ref\MusicStore.dll
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.pdb
+C:\@Thomas More\2ITF .NET\.NET Development\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.genruntimeconfig.cache
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.csproj.AssemblyReference.cache
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.AssemblyInfoInputs.cache
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.AssemblyInfo.cs
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.RazorAssemblyInfo.cache
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.RazorAssemblyInfo.cs
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\ref\MusicStore.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.pdb
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\appsettings.json
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\MusicStore.StaticWebAssets.xml
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\MusicStore.exe
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\MusicStore.deps.json
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\MusicStore.runtimeconfig.json
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\MusicStore.runtimeconfig.dev.json
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\MusicStore.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\ref\MusicStore.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\MusicStore.pdb
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\MusicStore.Views.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\MusicStore.Views.pdb
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\staticwebassets\MusicStore.StaticWebAssets.Manifest.cache
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\staticwebassets\MusicStore.StaticWebAssets.xml
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\scopedcss\bundle\MusicStore.styles.css
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.TagHelpers.input.cache
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.TagHelpers.output.cache
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.RazorCoreGenerate.cache
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Albums\Create.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Albums\Delete.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Albums\Details.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Albums\Edit.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Albums\Index.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Artists\Create.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Artists\Delete.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Artists\Details.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Artists\Edit.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Artists\Index.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Genres\Create.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Genres\Delete.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Genres\Details.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Genres\Edit.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Genres\Index.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Views\Checkout\Complete.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Views\Checkout\Create.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Views\Shared\Components\GenreMenu\Default.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Views\Shared\_LayoutAdmin.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Views\ShoppingCart\Index.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Views\Store\Details.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Views\Store\ListAlbums.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Views\Store\ListGenres.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.RazorTargetAssemblyInfo.cache
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.RazorTargetAssemblyInfo.cs
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.Views.pdb
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.csproj.CopyComplete
+C:\Users\Nicholas C\source\repos\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.genruntimeconfig.cache
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\appsettings.json
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\MusicStore.StaticWebAssets.xml
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\MusicStore.exe
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\MusicStore.deps.json
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\MusicStore.runtimeconfig.json
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\MusicStore.runtimeconfig.dev.json
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\MusicStore.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\ref\MusicStore.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\MusicStore.pdb
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\MusicStore.Views.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\MusicStore.Views.pdb
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.csproj.AssemblyReference.cache
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.AssemblyInfoInputs.cache
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.AssemblyInfo.cs
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.RazorAssemblyInfo.cache
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.RazorAssemblyInfo.cs
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\staticwebassets\MusicStore.StaticWebAssets.Manifest.cache
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\staticwebassets\MusicStore.StaticWebAssets.xml
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\scopedcss\bundle\MusicStore.styles.css
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.TagHelpers.input.cache
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.TagHelpers.output.cache
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.RazorCoreGenerate.cache
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Albums\Create.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Albums\Delete.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Albums\Details.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Albums\Edit.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Albums\Index.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Artists\Create.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Artists\Delete.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Artists\Details.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Artists\Edit.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Artists\Index.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Genres\Create.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Genres\Delete.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Genres\Details.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Genres\Edit.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Genres\Index.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Views\Checkout\Complete.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Views\Checkout\Create.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Views\Shared\Components\GenreMenu\Default.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Views\Shared\_LayoutAdmin.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Views\ShoppingCart\Index.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Views\Store\Details.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Views\Store\ListAlbums.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Views\Store\ListGenres.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.RazorTargetAssemblyInfo.cache
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.RazorTargetAssemblyInfo.cs
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.Views.pdb
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\ref\MusicStore.dll
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.pdb
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.genruntimeconfig.cache
+C:\Users\Nicholas C\source\repos\.NET\DI\ExerciseDI_MusicStore_Start\ExerciseDI_MusicStore_Start\MusicStore\obj\Debug\net5.0\MusicStore.csproj.CopyComplete

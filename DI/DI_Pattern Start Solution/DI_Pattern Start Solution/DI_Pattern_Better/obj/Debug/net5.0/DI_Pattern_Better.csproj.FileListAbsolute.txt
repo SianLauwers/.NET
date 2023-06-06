@@ -1,0 +1,40 @@
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Better\bin\Debug\net5.0\DI_Pattern_Better.exe
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Better\bin\Debug\net5.0\DI_Pattern_Better.deps.json
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Better\bin\Debug\net5.0\DI_Pattern_Better.runtimeconfig.json
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Better\bin\Debug\net5.0\DI_Pattern_Better.runtimeconfig.dev.json
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Better\bin\Debug\net5.0\DI_Pattern_Better.dll
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Better\bin\Debug\net5.0\ref\DI_Pattern_Better.dll
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Better\bin\Debug\net5.0\DI_Pattern_Better.pdb
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Better\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Better\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Better\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Better\obj\Debug\net5.0\DI_Pattern_Better.csproj.AssemblyReference.cache
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Better\obj\Debug\net5.0\DI_Pattern_Better.GeneratedMSBuildEditorConfig.editorconfig
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Better\obj\Debug\net5.0\DI_Pattern_Better.AssemblyInfoInputs.cache
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Better\obj\Debug\net5.0\DI_Pattern_Better.AssemblyInfo.cs
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Better\obj\Debug\net5.0\DI_Pattern_Better.csproj.CoreCompileInputs.cache
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Better\obj\Debug\net5.0\DI_Pattern_Better.csproj.CopyComplete
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Better\obj\Debug\net5.0\DI_Pattern_Better.dll
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Better\obj\Debug\net5.0\ref\DI_Pattern_Better.dll
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Better\obj\Debug\net5.0\DI_Pattern_Better.pdb
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Better\obj\Debug\net5.0\DI_Pattern_Better.genruntimeconfig.cache
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Better\bin\Debug\net5.0\DI_Pattern_Better.exe
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Better\bin\Debug\net5.0\DI_Pattern_Better.deps.json
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Better\bin\Debug\net5.0\DI_Pattern_Better.runtimeconfig.json
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Better\bin\Debug\net5.0\DI_Pattern_Better.runtimeconfig.dev.json
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Better\bin\Debug\net5.0\DI_Pattern_Better.dll
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Better\bin\Debug\net5.0\ref\DI_Pattern_Better.dll
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Better\bin\Debug\net5.0\DI_Pattern_Better.pdb
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Better\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Better\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Better\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Better\obj\Debug\net5.0\DI_Pattern_Better.csproj.AssemblyReference.cache
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Better\obj\Debug\net5.0\DI_Pattern_Better.GeneratedMSBuildEditorConfig.editorconfig
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Better\obj\Debug\net5.0\DI_Pattern_Better.AssemblyInfoInputs.cache
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Better\obj\Debug\net5.0\DI_Pattern_Better.AssemblyInfo.cs
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Better\obj\Debug\net5.0\DI_Pattern_Better.csproj.CoreCompileInputs.cache
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Better\obj\Debug\net5.0\DI_Pattern_Better.csproj.CopyComplete
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Better\obj\Debug\net5.0\DI_Pattern_Better.dll
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Better\obj\Debug\net5.0\ref\DI_Pattern_Better.dll
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Better\obj\Debug\net5.0\DI_Pattern_Better.pdb
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Better\obj\Debug\net5.0\DI_Pattern_Better.genruntimeconfig.cache

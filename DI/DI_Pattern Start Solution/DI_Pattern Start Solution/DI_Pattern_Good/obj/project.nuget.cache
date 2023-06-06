@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5rpoJw7/I9gEl0+d9cl3U2wPnkdFvCinaqetJp608d6rconY1QJIQpah95Ck99i1+8sZRhhCcxtupVAMDCtxSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sian-\\OneDrive\\Documenten\\2022-2023\\.NET\\.NET\\DI\\DI_Pattern Start Solution\\DI_Pattern Start Solution\\DI_Pattern_Good\\DI_Pattern_Good.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sian-\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\sian-\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\sian-\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\sian-\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
